@@ -1,0 +1,6 @@
+plugins {
+    id 'java'
+}
+
+group 'me.sogreeno'
+version '1.0.0'
